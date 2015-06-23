@@ -1,0 +1,19 @@
+PODS:
+  - NSDate+TimeAgo (1.0.3)
+
+DEPENDENCIES:
+  - NSDate+TimeAgo (from `https://github.com/kevinlawler/NSDate-TimeAgo.git`)
+
+EXTERNAL SOURCES:
+  NSDate+TimeAgo:
+    :git: https://github.com/kevinlawler/NSDate-TimeAgo.git
+
+CHECKOUT OPTIONS:
+  NSDate+TimeAgo:
+    :commit: 0f1c9b49d56eab4e43b5cfd9d8e41dfd91f1085c
+    :git: https://github.com/kevinlawler/NSDate-TimeAgo.git
+
+SPEC CHECKSUMS:
+  NSDate+TimeAgo: 416f55d2696d3744c313091c5a9280d47f8238fe
+
+COCOAPODS: 0.37.2
